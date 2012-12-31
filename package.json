@@ -3,7 +3,7 @@
   "description": "Attach new filters to Jade",
   "main": "attachfilter.js",
   "scripts": {
-    "test": "mocha -u tdd -G
+    "test": "mocha -u tdd -G"
   },
   "repository": "",
   "keywords": [
